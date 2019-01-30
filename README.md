@@ -1,5 +1,7 @@
 # Data-Transaction
 By using struct array how to transfer the data from one account to another account
+
+
 pragma solidity >=0.4.2;
 contract Struct {
     struct aditya {
